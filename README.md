@@ -47,5 +47,5 @@ Designed for Linux-first workflows, simple enough to understand, solid enough to
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/timer-stopwatch.git
-cd timer-stopwatch
+git clone https://github.com/Zoom0099/Timer_Stopwatch-for-Linux.git
+cd Timer_Stopwatch-for-Linux
