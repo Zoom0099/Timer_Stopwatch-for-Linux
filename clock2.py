@@ -10,7 +10,7 @@ class ClockApp(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title('Circle Timer & Stopwatch')
+        self.title('Timer & Stopwatch')
         self.geometry('480x560')
         self.resizable(True, True)  # Allow minimize / maximize
 
